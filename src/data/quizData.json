@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "answers": [
+        { "text": "Paris", "isCorrect": true },
+        { "text": "Rome", "isCorrect": false },
+        { "text": "Berlin", "isCorrect": false },
+        { "text": "London", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the largest country in the world?",
+      "answers": [
+        { "text": "Russia", "isCorrect": true },
+        { "text": "Canada", "isCorrect": false },
+        { "text": "China", "isCorrect": false },
+        { "text": "United States", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the capital of Australia?",
+      "answers": [
+        { "text": "Canberra", "isCorrect": true },
+        { "text": "Sydney", "isCorrect": false },
+        { "text": "Melbourne", "isCorrect": false },
+        { "text": "Brisbane", "isCorrect": false }
+      ]
+    },
+    {
+        "question": "What is the capital of India?",
+        "answers": [
+          { "text": "Mumbai", "isCorrect": false },
+          { "text": "New Delhi", "isCorrect": true },
+          { "text": "Kolkata", "isCorrect": false },
+          { "text": "Chennai", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "What is the national emblem of India?",
+        "answers": [
+          { "text": "Ashoka Chakra", "isCorrect": false },
+          { "text": "Lion Capital of Ashoka", "isCorrect": true },
+          { "text": "Tricolour", "isCorrect": false },
+          { "text": "National Flower", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Which Indian state is known as 'God's own country'?",
+        "answers": [
+          { "text": "Kerala", "isCorrect": true },
+          { "text": "Tamil Nadu", "isCorrect": false },
+          { "text": "Karnataka", "isCorrect": false },
+          { "text": "Andhra Pradesh", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "What is the highest civilian award of India?",
+        "answers": [
+          { "text": "Bharat Ratna", "isCorrect": true },
+          { "text": "Padma Bhushan", "isCorrect": false },
+          { "text": "Padma Shri", "isCorrect": false },
+          { "text": "Padma Vibhushan", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Which Indian state is the largest by area?",
+        "answers": [
+          { "text": "Rajasthan", "isCorrect": true },
+          { "text": "Madhya Pradesh", "isCorrect": false },
+          { "text": "Maharashtra", "isCorrect": false },
+          { "text": "Uttar Pradesh", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "Who was the first Prime Minister of India?",
+        "answers": [
+          { "text": "Jawaharlal Nehru", "isCorrect": true },
+          { "text": "Indira Gandhi", "isCorrect": false },
+          { "text": "Lal Bahadur Shastri", "isCorrect": false },
+          { "text": "Sardar Vallabhbhai Patel", "isCorrect": false }
+        ]
+      },
+      {
+        "question": "What is the currency of India?",
+        "answers": [
+          { "text": "Rupee", "isCorrect": true },
+          { "text": "Dollar", "isCorrect": false },
+          { "text": "Euro", "isCorrect": false },
+          { "text": "Yen", "isCorrect": false }
+        ]
+      }
+  ]
+  
